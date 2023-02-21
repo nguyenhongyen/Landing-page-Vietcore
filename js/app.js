@@ -6,9 +6,9 @@
 
 		new Typed('#typed', {
 			stringsElement: '#type-string ',
-			typeSpeed: 30,
+			typeSpeed: 50,
 			backSpeed: 0,
-			backDelay: 500,
+			backDelay: 600,
 			startDelay: 0,
 			loop: true,
 		});
